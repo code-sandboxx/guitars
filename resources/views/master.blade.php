@@ -32,7 +32,8 @@ https://templatemo.com/tm-556-catalog-z
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#services">À propos</a></li>
+                        <li class="nav-item"><a class="nav-link" href="home">Accueil</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about">À propos</a></li>
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Catalogue</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">Promotions</a></li>                                              
                     </ul>

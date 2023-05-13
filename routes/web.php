@@ -18,6 +18,7 @@ use App\Http\Controllers\TestController;
 
 Route::get('/', [SiteController::class, 'index']);
 Route::get('/home', [SiteController::class, 'index']);
+Route::get('/about', [SiteController::class, 'about']);
 
 
 

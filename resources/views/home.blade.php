@@ -1,11 +1,11 @@
 @extends('master')
-@section('title', 'Page Home')
+@section('title', 'Home Page')
 @section('content') 
 <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Bienvenue dans notre magasin de guitares électriques!</div>
                 <div class="masthead-heading text-uppercase">Rock Riffs Guitares Électriques</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">En savoir plus</a>
+                <a class="btn btn-primary btn-xl text-uppercase" href="about">En savoir plus</a>
             </div>
         </header>
         <!-- Services-->
