@@ -14,12 +14,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-use App\Http\Controllers\TestController;
-
 Route::get('/', [SiteController::class, 'index']);
 Route::get('/home', [SiteController::class, 'index']);
 Route::get('/about', [SiteController::class, 'about']);
 Route::get('/catalogue', [SiteController::class, 'catalogue']);
+Route::get('/promotion', [SiteController::class, 'promotion']);
+Route::post('/promotion', [SiteController::class, 'form']);
 
 
 

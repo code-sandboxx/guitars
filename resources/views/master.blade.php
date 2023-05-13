@@ -35,7 +35,7 @@ https://templatemo.com/tm-556-catalog-z
                         <li class="nav-item"><a class="nav-link" href="home">Accueil</a></li>
                         <li class="nav-item"><a class="nav-link" href="about">À propos</a></li>
                         <li class="nav-item"><a class="nav-link" href="catalogue">Catalogue</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about">Promotions</a></li>                                              
+                        <li class="nav-item"><a class="nav-link" href="promotion">Promotions</a></li>                                              
                     </ul>
                 </div>
             </div>

@@ -17,4 +17,12 @@ class SiteController extends Controller
     public function catalogue(){
         return view('catalogue');
     }
+
+    public function promotion(){
+        return view('promo');
+    }
+
+    public function form(Request $request){
+        return view('promo', ['data' => $request]);
+    }
 }
